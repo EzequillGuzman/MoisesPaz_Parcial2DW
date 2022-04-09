@@ -1,0 +1,28 @@
+.contenedor{
+    width: 100%;
+    margin: auto;
+  
+ }
+ table{
+     width: 95%;
+     border-collapse: collapse;
+ }
+ tr, td ,th{
+     border: 4px solid brown;
+ }
+ 
+ .fila_1{
+     background-color: aquamarine;
+ }
+ 
+ .fila_2{
+     background-color: moccasin;
+ } 
+ .encabezado{
+     background-color: lightskyblue;
+     color: white;
+ }
+ .fila_2:hover, .fila_impar:hover{
+     background-color: lightskyblue;
+     color: white;
+ }  
